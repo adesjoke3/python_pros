@@ -1,0 +1,33 @@
+# Define a function called greet()
+def greet():
+    print("Hello, BOB!")
+
+# Calling the function
+greet()  # This will print "Hello, everyone!"
+
+# Define a function called greet_person() with an argument
+def greet_person(name):
+    print("Hello,", name)
+
+greet_person("ADEJOKE")
+
+# define a funtion called square()that returns value
+def square(number):
+    return number * number
+
+num = square(17450)
+print(num)
+
+# define a function called bobs()that returns value
+bob = 1452
+bobo = 123
+def add (bob,bobo):
+
+    return bob + bobo
+bobo = 63713231522121721
+bob = 5467389293764372891278192
+print(add (bob,bobo))
+
+
+
+

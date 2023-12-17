@@ -1,0 +1,5 @@
+def add (A,B):
+    return A + B
+
+results = add(5,7) # call the funtion
+print("Results",results)

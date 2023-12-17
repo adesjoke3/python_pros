@@ -1,0 +1,15 @@
+def combine_strings(str1,str2,str3,str4,str5,str6,str7,str8,str9,str10):
+    return str1 + str2 + str3 + str4 + str5 + str6 + str7 + str8 + str9 + str10
+str1 = "dara "
+str2 = "and"
+str3 = "nola "
+str4 = "are "
+str5 = "elfs "
+str6 = "and "
+str7 = "i "
+str8 = "am "
+str9 = "santa "
+str10 = "ho ho ho ho ho ho ho ho ho ho ho ho ho YUMMY COOKIES "
+
+result = combine_strings("dara ","and ", "nola ", "are ", "elfs ","and ","i ","am ","santa ","ho ho ho ho ho ho ho ho ho ho ho ho YUMMY COOKIES")# calling the funtion
+print("Result", result)
